@@ -1,2 +1,2 @@
 # FunHexClock
-https://codepen.io/rodrap50/pen/RwLyzrp
+https://codepen.io/rodrap50/full/RwLyzrp
